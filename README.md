@@ -1,5 +1,7 @@
 ### To run, simply download and run the Scorer.exe file.
 
+The current version works for 1080p.
+
 I havnt figured out how to make a system tray icon, so close in task manager.
 
 
