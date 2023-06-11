@@ -1,4 +1,4 @@
-### To run simply run the Scorer.exe file.
+### To run, simply download and run the Scorer.exe file.
 
 I havnt figured out how to make a system tray icon, so close in task manager.
 
