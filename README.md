@@ -8,3 +8,5 @@ auto-py-to-exe
 Script: Code/Scorer.py 
 Options: One file and window based
 Run the Scorer.exe!
+
+Clip: https://imgur.com/a/I1darmc
